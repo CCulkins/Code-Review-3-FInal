@@ -1,0 +1,20 @@
+#showResults {
+  display: none;
+  color: white;
+}
+
+.jumbotron {
+  background-color: #00aba9;
+}
+
+body {
+  background-color: #d7d7d7;
+}
+
+h1 {
+  color: white;
+}
+
+label {
+  color: white;
+}
