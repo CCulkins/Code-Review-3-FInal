@@ -26,7 +26,7 @@ $(document).ready(function() {
     $('#showResults').show();
 
     pongResults.forEach(function(showResult){
-      $('#showResults').append("<li>" + pongResults + "</li>");
+      $('#showResults').append("<li>" + showResult + "</li>");
     });
     event.preventDefault();
   });
