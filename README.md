@@ -23,11 +23,11 @@ _If you have any questions or concerns, the authors can be contacted using the G
 
 ## Technologies Used
 
-_JavaScript_
-_jQuery_
-_Mocha_
-_Chai_
-_Bootstrap_
+* JavaScript
+* jQuery
+* Mocha
+* Chai
+* Bootstrap
 
 ### License
 
