@@ -15,15 +15,19 @@ _This program is designed to return a list of numbers, with numbers divisible by
 
 ## Known Bugs
 
-_There is a known bug with the return listing the entire array rather than each value individually._
+_There are no known bugs._
 
 ## Support and contact details
 
-_I used Bootstrap to style the page and JavaScript to generate elements._
+_If you have any questions or concerns, the authors can be contacted using the GitHub information listed below._
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_JavaScript_
+_jQuery_
+_Mocha_
+_Chai_
+_Bootstrap_
 
 ### License
 
